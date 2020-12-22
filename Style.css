@@ -190,7 +190,7 @@ a {
     position: relative;
     bottom: 0px;
     left: 0px;
-    box-shadow: rgba(40,40,40,.2) 0px 0px;
+    box-shadow: rgba(40,40,40,.2) 0px 0px 5px;
     transition: bottom .5s, left .5s, outline .5s, box-shadow .5s;
 }
 
@@ -198,7 +198,7 @@ a {
         position: relative;
         bottom: 20px;
         left: 10px;
-        box-shadow: rgba(40,40,40,.2) -10px 20px;
+        box-shadow: rgba(40,40,40,.2) -10px 20px 5px;
         transition: bottom .5s, left .5s, outline .5s, box-shadow .5s;
     }
 
