@@ -10,6 +10,7 @@
 body
 {
     margin: 20px;
+    overflow-x: hidden;
 }
 
 .header-full {
